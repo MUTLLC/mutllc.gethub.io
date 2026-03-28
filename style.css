@@ -6,7 +6,7 @@
 }
 
 .center-image img {
-  max-width: 300px;
+  max-width: 150px;
   height: auto;
   border-radius: 10px; /* optional: makes it look nicer */
 }
